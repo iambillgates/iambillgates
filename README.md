@@ -1,14 +1,15 @@
 <h1 align="center">Hello, I'm Allen Hue (D. Akbar Pradana) </h1>
 
 <p align="center">
-  <strong>Software Engineer • Full-Stack Developer • Problem Solver</strong>
+  <strong>Software Engineer • Full-Stack Developer</strong>
 </p>
 
 ---
 
 ### 👋 About Me
-I'm a software engineer who values clarity, simplicity, and thoughtful design.  
-I enjoy building clean, efficient systems and crafting user experiences that feel effortless.
+I’m a software engineer who values clarity and simplicity in the way I think and build.
+I care about writing clean, reliable code and creating systems that feel intentional and easy to use.
+I’m always looking to grow, learn, and refine my work — one step at a time.
 
 ---
 
@@ -19,12 +20,11 @@ I enjoy building clean, efficient systems and crafting user experiences that fee
 
 ---
 
-### 📈 GitHub Stats
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=iambillgates&show_icons=true&hide_title=true&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambillgates&layout=compact&hide_border=true" />
-</p>
-
+### 🔍 Current Focus
+- Building clean and efficient systems
+- Improving code architecture and performance
+- Exploring TypeScript & Go deeper
+  
 ---
 
 ### ✨ Philosophy
