@@ -14,7 +14,7 @@ I enjoy building clean, efficient systems and crafting user experiences that fee
 
 ### 🛠️ Tech & Tools I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,nodejs,react,swift,linux,docker,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,django,nestjs,nextjs,angular,git" />
 </p>
 
 ---
