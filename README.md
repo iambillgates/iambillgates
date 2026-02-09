@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Allen Hue (D. Akbar Pradana) </h1>
 
 <p align="center">
-  <strong>Software Engineer • Minimalist Thinker • Problem Solver</strong>
+  <strong>Software Engineer • Full-Stack Developer • Problem Solver</strong>
 </p>
 
 ---
@@ -14,7 +14,7 @@ I enjoy building clean, efficient systems and crafting user experiences that fee
 
 ### 🛠️ Tech & Tools I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,django,nestjs,nextjs,angular,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,django,nestjs,nextjs,angular,supabase,git" />
 </p>
 
 ---
@@ -28,11 +28,7 @@ I enjoy building clean, efficient systems and crafting user experiences that fee
 ---
 
 ### ✨ Philosophy
-> “Simplicity is the ultimate sophistication.” — *Apple Style*
+> “Knowing is Not Enough; We Must Apply. Willing is Not Enough; We Must Do.” — *Leonardo da Vinci*
 
 ---
 
-### 🔄 Automated Updates
-This profile automatically updates with the latest metrics and system information.
-
----
